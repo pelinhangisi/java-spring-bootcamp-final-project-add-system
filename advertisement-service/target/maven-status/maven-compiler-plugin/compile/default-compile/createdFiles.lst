@@ -1,0 +1,15 @@
+com\pelinhangisi\advertisementservice\dto\UserRequest.class
+com\pelinhangisi\advertisementservice\AdvertisementServiceApplication.class
+com\pelinhangisi\advertisementservice\service\AdvertisementService.class
+com\pelinhangisi\advertisementservice\entity\PriorityType.class
+com\pelinhangisi\advertisementservice\entity\AdvertisementStatus.class
+com\pelinhangisi\advertisementservice\controller\AdvertisementController.class
+com\pelinhangisi\advertisementservice\config\SpringFoxConfig.class
+com\pelinhangisi\advertisementservice\service\AdvertisementServiceImpl.class
+com\pelinhangisi\advertisementservice\repository\AdvertisementRepository.class
+com\pelinhangisi\advertisementservice\entity\BaseEntityModel.class
+com\pelinhangisi\advertisementservice\dto\UserRequest$UserRequestBuilder.class
+com\pelinhangisi\advertisementservice\entity\Advertisement.class
+com\pelinhangisi\advertisementservice\dto\AdvertisementDto$AdvertisementDtoBuilder.class
+com\pelinhangisi\advertisementservice\config\RabbitConfig.class
+com\pelinhangisi\advertisementservice\dto\AdvertisementDto.class

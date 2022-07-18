@@ -1,0 +1,22 @@
+USER
+
+{
+    "username":"pelince",
+    "firstname":"pelin",
+    "lastname":"hangişi",
+    "password":"12345",
+    "email":"pelin@test.com",
+    "phonenumber": "05425424242"
+
+}
+
+ADVERTISEMENT
+{
+
+    "title":"Sahibinden",
+    "description": "Eşyalı Kiralık 2+1",
+    "price": 5000,
+    "advertisementDate":"2022-05-05",
+    "priortyType":"URGENT",
+    "advertisementStatus": "ACTIVE"
+}

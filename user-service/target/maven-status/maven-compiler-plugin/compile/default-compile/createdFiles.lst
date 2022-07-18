@@ -1,0 +1,10 @@
+com\pelinhangisi\userservice\controller\UserController.class
+com\pelinhangisi\userservice\UserServiceApplication.class
+com\pelinhangisi\userservice\entity\User.class
+com\pelinhangisi\userservice\config\ModelMapperConfig.class
+com\pelinhangisi\userservice\service\UserService.class
+com\pelinhangisi\userservice\dto\UserRequest.class
+com\pelinhangisi\userservice\entity\User$UserBuilder.class
+com\pelinhangisi\userservice\repository\UserRepository.class
+com\pelinhangisi\userservice\dto\UserRequest$UserRequestBuilder.class
+com\pelinhangisi\userservice\config\SpringFoxConfig.class

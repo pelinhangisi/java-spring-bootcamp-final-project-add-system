@@ -1,0 +1,7 @@
+com\pelinhangisi\reportsservice\service\ReportsService.class
+com\pelinhangisi\reportsservice\ReportsServiceApplication.class
+com\pelinhangisi\reportsservice\dto\AdvertisementDto$AdvertisementDtoBuilder.class
+com\pelinhangisi\reportsservice\repository\ReportsRepository.class
+com\pelinhangisi\reportsservice\config\RabbitConfig.class
+com\pelinhangisi\reportsservice\entity\Reports.class
+com\pelinhangisi\reportsservice\dto\AdvertisementDto.class
