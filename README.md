@@ -93,6 +93,11 @@ kullanılmalıdır. <br>
 
 ![6 ilan ekleme](https://user-images.githubusercontent.com/96151920/179439524-1fe89941-1cff-4706-bed8-7e2fccf8afae.JPG)
 
+<br><hr>
+
+## Integration Test Altyapısı Denendi Ve Çalıştığı Test Edildi
+![7 test passed](https://user-images.githubusercontent.com/96151920/181358696-a2ebdec2-fc4f-487b-9ebd-16944f028009.JPG)
+
 
 <br><hr>
 
